@@ -13,7 +13,5 @@ describe('Addition Operation', () => {
         expect(add(0, 5)).toBe(5);
     });
 
-    test('adds zero', () => {
-        expect(add(1, 5)).toBe(5);
-    });
+
 });
